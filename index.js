@@ -1,1 +1,2 @@
-console.log("Hello, World");
+name = input("What's your name? ")
+printf("Hello, {name}!");
